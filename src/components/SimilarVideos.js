@@ -9,7 +9,7 @@ const SimilarVideos = ({ targetMuscleExercises, equipmentExercises }) => {
       <Typography variant="h3" mb={5}>
         Similar{" "}
         <span style={{ color: "#ff2625", textTransform: "capitalize" }}>
-          Muscle Group
+          Target Muscle
         </span>{" "}
         Exercises
       </Typography>
